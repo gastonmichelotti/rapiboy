@@ -25,15 +25,15 @@ CLASSIFIERS = [
     ]
 
 # calling the setup function 
-setup(name='mygmap',
+setup(name='rapiboy',
       version='1.0.3',
       description='A small wrapper around google maps api',
       long_description=long_description,
-      url='https://github.com/nikhilkumarsingh/mygmap',
+      url='https://github.com/gastonmichelotti/rapiboy.git',
       author='Nikhil Kumar Singh',
       author_email='nikhilksingh97@gmail.com',
       license='MIT',
-      packages=['geo'],
+      packages=['pmrules'],
       classifiers=CLASSIFIERS,
       install_requires=REQUIREMENTS,
       keywords='maps location address'
